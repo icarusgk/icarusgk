@@ -13,7 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me icarus.gk@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: All planets in the solar system would fit between the Earth and the moon
-
-
-### My Recently played
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=l1fz8tizkarq4hhm0vr0gt7r4)
