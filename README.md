@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on CS50x Final Project
+- 🔭 I’m currently working on HyperSkill course "Python Core"
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Developer Interships
 - 💬 Ask me about anything
