@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on HyperSkill course "Python Core"
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on freeCodeCamp curriculum
+- 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on Web Developer Interships
 - 💬 Ask me about anything
 - 📫 How to reach me icarus.gk@gmail.com
