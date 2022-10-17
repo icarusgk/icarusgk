@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me icarus.gk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: All planets in the solar system would fit between the Earth and the moon
+- ⚡ Fun fact: My favorite font for coding is DM Mono
