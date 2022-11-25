@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me icarus.gk@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Nuxt 3 is out!
+- ⚡ Fun fact: Ruby and Elixir share a lot in common
