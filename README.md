@@ -1,14 +1,6 @@
 <h3 align="center">Hello! 👋 ~ こんにちは</h3>
 
-![icarus-banner](https://user-images.githubusercontent.com/38413630/215842159-b3ddaf74-057d-450a-93af-1c855d85a8b0.png)
-<!-- <div>
-  <img style="width: 45%; padding="0px"" align="left" src="https://user-images.githubusercontent.com/38413630/216152229-7ebd4d44-93c9-4499-b72b-a033ff67a4df.png"/>
-  <img style="width:50%;" align="right" src="https://user-images.githubusercontent.com/38413630/216145123-8baa3720-b881-4077-9b3d-086aa0ba29ee.png"/>
-</div> -->
-
-<!-- ![Group 68](https://user-images.githubusercontent.com/38413630/216157915-90c7be14-3360-40c0-bbf8-adb504e9aecf.png) -->
-
-
-
-<!-- ![main-banner](https://user-images.githubusercontent.com/38413630/216163026-33657073-36e1-4164-a53a-d36e80ddb756.png) -->
-![Group 72 (2)](https://user-images.githubusercontent.com/38413630/216163543-47b290c5-3ffc-4b44-853d-9f4bb1b895b7.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/216164294-f5c45e6d-6060-49e2-95c5-e1aaf91fdb3f.png">
+  <img src="https://user-images.githubusercontent.com/38413630/216165065-a7358aa9-b022-4a9b-bf83-8e37f14fb102.png">
+</picture>
