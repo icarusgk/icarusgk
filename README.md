@@ -9,8 +9,8 @@
 
 <div>
 <picture>
-  <source width="60" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217412859-f5f5f681-6ca5-40e9-9a42-c8192187a4e5.svg">
-  <img width="60" src="https://user-images.githubusercontent.com/38413630/217412851-b94e42db-a40c-47ec-97dc-f18d51e6fd85.svg">
+  <source width="50" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217412859-f5f5f681-6ca5-40e9-9a42-c8192187a4e5.svg">
+  <img width="50" src="https://user-images.githubusercontent.com/38413630/217412851-b94e42db-a40c-47ec-97dc-f18d51e6fd85.svg">
 </picture>
 <img width="80" alt="linux" src="https://user-images.githubusercontent.com/38413630/217414732-5681a765-8ac4-43b3-a6a3-591acb10ed1f.svg">
 <img width="80" alt="ts" src="https://user-images.githubusercontent.com/38413630/217414961-48588e86-562c-4cf9-bf79-ddf5c6c68e45.svg">
