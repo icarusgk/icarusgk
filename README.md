@@ -7,7 +7,7 @@
 </picture>
 
 
-<div>
+<div align="center">
 <picture>
   <source width="50" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217412859-f5f5f681-6ca5-40e9-9a42-c8192187a4e5.svg">
   <img width="50" src="https://user-images.githubusercontent.com/38413630/217412851-b94e42db-a40c-47ec-97dc-f18d51e6fd85.svg">
@@ -23,10 +23,11 @@
   <source width="90" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217415100-7220a0ee-8390-40ad-a76a-3f1821e311fb.svg">
   <img width="90" src="https://user-images.githubusercontent.com/38413630/217415104-d6036920-ceea-4952-aa96-177e9ccc89fe.svg">
 </picture>
-<picture>
+<!-- flyio -->
+<!-- <picture>
   <source width="170" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217415508-12322a16-ded7-471b-9752-ee1dfd198d3b.svg">
   <img width="170" src="https://user-images.githubusercontent.com/38413630/217415526-c3a616eb-c45d-43e7-b5e4-613c17edc825.svg">
-</picture>
+</picture> -->
 </div>
 
 
