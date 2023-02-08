@@ -24,9 +24,9 @@
   <img width="90" src="https://user-images.githubusercontent.com/38413630/217415104-d6036920-ceea-4952-aa96-177e9ccc89fe.svg">
 </picture>
 <picture>
+  <source width="170" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217415508-12322a16-ded7-471b-9752-ee1dfd198d3b.svg">
+  <img width="170" src="https://user-images.githubusercontent.com/38413630/217415526-c3a616eb-c45d-43e7-b5e4-613c17edc825.svg">
 </picture>
-  <source width="170" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217415526-c3a616eb-c45d-43e7-b5e4-613c17edc825.svg">
-  <img width="170" src="https://user-images.githubusercontent.com/38413630/217415508-12322a16-ded7-471b-9752-ee1dfd198d3b.svg">
 </div>
 
 
