@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/38413630/217412387-d5d5f26f-c157-4358-be2b-14ab665c3d3e.png">
 </picture>
 
-
+<!-- align icons to center -->
 <div align="center">
 <picture>
   <source width="50" media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/38413630/217412859-f5f5f681-6ca5-40e9-9a42-c8192187a4e5.svg">
