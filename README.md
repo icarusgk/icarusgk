@@ -7,6 +7,8 @@
   <img src="https://user-images.githubusercontent.com/38413630/217412387-d5d5f26f-c157-4358-be2b-14ab665c3d3e.png">
 </picture>
 
+<!-- will add github blocks soon -->
+
 <!-- align icons to center -->
 <div align="center">
 <picture>
