@@ -1,5 +1,5 @@
 <!-- Header -->
-<h3 align="center">Hello! 👋 ~ こんにちは</h3>
+<!-- <h3 align="center">Hello! 👋 ~ こんにちは</h3> -->
 
 <!-- This will change according the user's GitHub theme -->
 <picture>
